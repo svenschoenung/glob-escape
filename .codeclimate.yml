@@ -5,6 +5,9 @@ engines:
     config:
       languages:
       - javascript
+    checks:
+      Similar code:
+        enabled: false
     exclude_fingerprints:
   eslint:
     enabled: true
