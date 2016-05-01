@@ -4,7 +4,7 @@
 [![Dependency Status](https://david-dm.org/svenschoenung/glob-escape.svg)](https://david-dm.org/svenschoenung/glob-escape)
 [![devDependency Status](https://david-dm.org/svenschoenung/glob-escape/dev-status.svg)](https://david-dm.org/svenschoenung/glob-escape#info=devDependencies)
 [![Code Climate](https://codeclimate.com/github/svenschoenung/glob-escape/badges/gpa.svg)](https://codeclimate.com/github/svenschoenung/glob-escape)
-[![Codacy Badge](https://api.codacy.com/project/badge/grade/)](https://www.codacy.com/app/svenschoenung/glob-escape)
+[![Codacy Badge](https://api.codacy.com/project/badge/grade/dee709366a3245268e25a81e6a124ce6)](https://www.codacy.com/app/svenschoenung/glob-escape)
 
 # glob-escape
 
