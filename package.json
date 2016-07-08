@@ -1,7 +1,7 @@
 {
   "name": "glob-escape",
   "description": "Escape glob patterns",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": {
     "name": "Sven Schönung <sven.schoenung@gmail.com> (http://sven.schoenung.org/)"
   },
