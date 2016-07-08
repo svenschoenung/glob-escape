@@ -2,10 +2,10 @@ var util = require('util');
 
 function escapeGlobStringOrArray(escapeFn) {
   return function(glob) {
-    if (util.isString(glob)) {
+    if (typeof glob === 'string') {
       return escapeFn(glob);
     }
-    if (util.isArray(glob)) {
+    if (Array.isArray(glob)) {
       return glob.map(escapeFn);
     }
     throw new Error('glob pattern needs to be a string or array');
