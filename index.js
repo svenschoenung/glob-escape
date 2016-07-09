@@ -1,5 +1,3 @@
-var util = require('util');
-
 function escapeGlobStringOrArray(escapeFn) {
   return function(glob) {
     if (typeof glob === 'string') {
